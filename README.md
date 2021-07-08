@@ -1,6 +1,7 @@
 # ros_study
 ## file list
 ros_tutorials_topic   -> 간단한 토픽사용 예제 (subscriber, publisher)
+1. launch file 추가 : 동일한 노드를 여러개 사용 시 유용
 
 ros_tutorials_service -> 간단한 서비스 사용 예제 (server, client)
 
